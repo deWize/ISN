@@ -1,0 +1,42 @@
+body {
+	background-color : rgb(64,64,64);
+}
+h1 {
+	font : arial;
+	color : rgb(35,174,255);
+	background-color: rgb(109,255,112);
+	border-style : outset;
+	border-color : rgb(45,255,112);
+	margin : 10px;
+}
+p, h2, ul, li{
+	font : arial;
+	color : rgb(35,174,255);
+	background-color: rgb(109,255,112);
+	border-style : outset;
+	border-color : rgb(45,255,112);
+	margin : 10px;
+}
+div ,span{
+	background-color: rgb(139,255,112);
+	border-style : outset;
+	border-color : rgb(90,255,112);
+	margin : 10px;
+}
+a {
+	color : rgb(35,174,255);
+}
+a:hover {
+		background-color : #58AD74;
+}
+.greetings {
+	font-size : 20px;
+	font-weight : bold;
+}
+
+h2{
+	max-width : 135px;
+}
+ul,li {
+	max-width : 250px;
+}
