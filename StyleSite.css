@@ -6,28 +6,28 @@ body {
 }
 h1 {
 	font : arial;
-	color : rgb(35,174,255);
-	background-color: rgb(109,255,112);
+	color : rgb(45,255,112);
+	background-color: rgbrgb(64,64,64);
 	border-style : outset;
-	border-color : rgb(45,255,112);
+	border-color : rgb(34, 31, 31);
 	margin : 10px;
 }
 p, h2, ul, li{
 	font : arial;
-	color : rgb(35,174,255);
-	background-color: rgb(109,255,112);
+	color : rgb(45,255,112);
+	background-color: rgb(64,64,64);
 	border-style : outset;
-	border-color : rgb(45,255,112);
+	border-color : rgb(34, 31, 31);
 	margin : 10px;
 }
 div ,span{
-	background-color: rgb(139,255,112);
+	background-color: rgb(64,64,64);
 	border-style : outset;
-	border-color : rgb(90,255,112);
+	border-color : rgb(34, 31, 31);
 	margin : 10px;
 }
 a {
-	color : rgb(35,174,255);
+	color : rgb(45,255,112);
 }
 a:hover {
 		background-color : #58AD74;
@@ -42,4 +42,10 @@ h2{
 }
 ul,li {
 	max-width : 250px;
+}
+
+#ParagrapheIntro {
+	position: absolute;
+	left: 200px;
+	top: 500px;
 }
