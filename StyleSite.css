@@ -1,5 +1,8 @@
 body {
 	background-color : rgb(64,64,64);
+	background-image: url("giphy.gif");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
 }
 h1 {
 	font : arial;
