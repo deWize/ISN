@@ -40,12 +40,6 @@ a:hover {
 h2{
 	max-width : 135px;
 }
-ul,li {
+ul {
 	max-width : 250px;
-}
-
-#ParagrapheIntro {
-	position: absolute;
-	left: 200px;
-	top: 500px;
 }
